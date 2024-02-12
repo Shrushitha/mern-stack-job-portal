@@ -4,14 +4,15 @@ Welcome to the MERN Stack Job Portal! This project is a full-stack application d
 
 ## Features
 
-Job Listings: Employers can post job openings with detailed descriptions, and job seekers can browse through available listings.\
-User Authentication: Secure signup/login functionality for both job seekers and employers.\
-Profile Management: Users can create and edit their profiles to include relevant information.\
-Application System: Job seekers can apply directly through the portal, and employers can review applications.\
-Search and Filter: Advanced search options allow users to filter job listings by keywords, location, job type, and more.\
+### Job Listings: Employers can post job openings with detailed descriptions, and job seekers can browse through available listings.\
+### User Authentication: Secure signup/login functionality for both job seekers and employers.\
+### Profile Management: Users can create and edit their profiles to include relevant information.\
+### Application System: Job seekers can apply directly through the portal, and employers can review applications.\
+### Search and Filter: Advanced search options allow users to filter job listings by keywords, location, job type, and more.
+
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.\
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
 Node.js\
@@ -19,18 +20,18 @@ npm\
 MongoDB\
 
 ## Installation
-## Clone the repository \
+## Clone the repository 
 git clone 
 
 npm start\
-Set up the Frontend\
+## Set up the Frontend
 In a new terminal window, navigate to the frontend directory, install dependencies, and start the React app:\
 cd frontend\
 npm install\
-npm start\
+npm start
 
 ## Set up the Backend
-Navigate to the backend directory, install dependencies, and start the server:\
+Navigate to the backend directory, install dependencies, and start the server:
 
 
 cd backend\
